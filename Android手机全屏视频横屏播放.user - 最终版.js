@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Android手机全屏视频横屏播放（带功能开关 完整版）
 // @description  gongneng=0仅横屏 | gongneng=1全开：横屏+手势滑动+长按倍速+点击出声
-// @version      1.0.2
+// @version      2
 // @author       1771245847
 // @match       *://*/*
 // @grant        GM_setValue
